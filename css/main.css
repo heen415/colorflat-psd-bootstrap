@@ -1,0 +1,54 @@
+html body {
+ background-color: #a5d2da;
+}
+.navbar-brand :mb-0 h1{
+  background-color: #a5d2da;
+}
+#ourSevices{
+  background-color: white;
+}
+
+#Portfolio{
+  background-color: #99d4a5;
+  text-align: center;
+}
+
+.navbar-nav{
+  background-color: #99d4a5;
+}
+
+.navbar-brand{
+  background-color: #99d4a5;
+  margin: 0px;
+}
+
+.navbar-expand-lg{
+  padding: 0px;
+}
+
+#navbarNavAltMarkup{
+  background-color: #99d4a5;
+}
+
+#meetourteamSection{
+  background-color: #ddb3c2;
+  text-align: center;
+}
+
+#recentpostSection{
+  background-color: #b5d5e1;
+  text-align: center;
+}
+
+#contactSection{
+  background-color: #3b3b3b;
+  text-align: center;
+}
+
+#contactSection .cntr{
+  color:white;
+}
+
+#contactSection .lorem{
+  color:white;
+}
